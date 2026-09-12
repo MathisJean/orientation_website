@@ -17,7 +17,7 @@ This wasn't a client project or a school assignment — I saw that ESN's guidanc
 - Presented it to school administration
 - Presented it publicly at the **Brilliant Labs New Brunswick Innovation Fair**, hosted at ESN, March 2025
 - A school administrator raised security concerns during review — I spent several weeks making revisions to address them
-- The project lost momentum over the summer: I lost my school email access, and my attention shifted to other projects that fall (STRIKR, the CA Simulator)
+- The project lost momentum over the summer: I lost my school email access, and my attention shifted to other projects
 
 > [!NOTE]
 > This repo captures the prototype as it stood when work paused — it was never formally released or adopted by the school.
